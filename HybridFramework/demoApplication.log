@@ -1,0 +1,21 @@
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  loginTest  - LoginTest Started
+[main] INFO  loginTest  - LoginTest Passed
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  linkCountTest  - LoginTest Passed
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  loginTest  - LoginTest Started
+[main] INFO  loginTest  - LoginTest Passed
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  linkCountTest  - LoginTest Passed
+[main] INFO  linkCountTest  - linkCountTestPassed
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  loginTest  - LoginTest Started
+[main] INFO  openBrowserTest  - openBrowser Test Ended
+[main] INFO  openBrowserTest  - openBrowser Test Started
+[main] INFO  loginTest  - LoginTest Started
+[main] INFO  loginTest  - LoginTest Passed
+[main] INFO  openBrowserTest  - openBrowser Test Started
+[main] INFO  linkCountTest  - linkTest-Counting The Links :
+[main] INFO  linkCountTest  - linkCountTestPassed
